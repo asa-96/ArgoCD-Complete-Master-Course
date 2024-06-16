@@ -1,4 +1,4 @@
-# ArgoCD-Complete-Master-Course
+# ArgoCD-Complete-Master-Course.
 
 Welcome to the Argo Complete Master Course repository. This course is designed to take you from beginner to advanced usage of Argo projects, including Argo Workflows, Argo CD, Argo Events, and Argo Rollouts.
 
